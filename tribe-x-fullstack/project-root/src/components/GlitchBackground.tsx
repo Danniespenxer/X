@@ -1,1 +1,0 @@
-// Glitching background animation
